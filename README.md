@@ -1,23 +1,23 @@
 # Elevate-Labs-Internship-Task-4
-# 🛠️ REST API with Flask
+# REST API with Flask
 
 A simple RESTful API built using Flask for managing user data. This project demonstrates CRUD operations, API routing, and Postman testing.
 
-## 🚀 Features
+## Features
 
 - Create, Read, Update, Delete (CRUD) user data
 - File-based data persistence
 - Error handling and input validation
 - Tested with Postman
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Python 3.10+**
 - **Flask**
 - **Postman** (for API testing)
 - **pip** (for dependency management)
 
-## 📚 Learning Resource
+## Learning Resource
 
 This project was built by following tutorials and guides from [GeeksforGeeks](https://www.geeksforgeeks.org/). It helped me understand:
 
@@ -28,7 +28,7 @@ This project was built by following tutorials and guides from [GeeksforGeeks](ht
 
 Big thanks to GeeksforGeeks for making these concepts accessible and beginner-friendly!
 
-## 📦 Requirements
+## Requirements
 
 Install dependencies using:
 
