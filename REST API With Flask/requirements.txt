@@ -1,0 +1,7 @@
+Python 3.10+
+Flask
+Postman (for API testing)
+pip (for dependency management)
+
+#References
+"https://www.geeksforgeeks.org/python/flask-creating-rest-apis/"
